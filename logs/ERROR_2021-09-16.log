@@ -1,0 +1,26 @@
+2021-09-16T05:56:36.631ZTypeError: Cannot read property 'email' of null 
+2021-09-16T05:56:41.646ZTypeError: Cannot read property 'email' of null 
+2021-09-16T05:56:43.810ZTypeError: Cannot read property 'email' of null 
+2021-09-16T05:58:09.091ZMongooseError: Operation `sms.findOne()` buffering timed out after 10000ms 
+2021-09-16T05:58:25.989ZMongooseError: Operation `sms.findOne()` buffering timed out after 10000ms 
+2021-09-16T06:05:15.170Z{} 
+2021-09-16T06:05:20.026Z{} 
+2021-09-16T06:05:22.242Z{} 
+2021-09-16T06:05:24.628Z{} 
+2021-09-16T06:06:01.349Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:06:28.220Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:07:02.166Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:08:14.083Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:09:30.063Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:09:33.438Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:10:46.996Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:15:51.048Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:16:50.876Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:20:50.243Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:22:36.896Z{"errors":{"phone":{"name":"ValidatorError","message":"Phone Number Required","properties":{"message":"Phone Number Required","type":"required","path":"phone"},"kind":"required","path":"phone"}},"_message":"centralregs validation failed","name":"ValidationError","message":"centralregs validation failed: phone: Phone Number Required"} 
+2021-09-16T06:29:09.553Z{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"lks@ail.com"}} 
+2021-09-16T06:41:24.052Z{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"lks@ail.com"}} 
+2021-09-16T06:41:28.832Z{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"lks@ail.com"}} 
+2021-09-16T06:43:10.011Z{"index":0,"code":11000,"keyPattern":{"email":1},"keyValue":{"email":"lks@ail.com"}} 
+2021-09-16T06:45:57.723ZError: mail could not be sent ${JSON.stringify(error)} 
+ 

@@ -1,0 +1,20 @@
+{}{}{}{}{}{}2021-09-11T16:57:40.297Z{}
+2021-09-11T16:58:42.068Z{}
+2021-09-11T16:59:37.301Z{"code":"MODULE_NOT_FOUND","requireStack":["C:\\Users\\Ken\\Desktop\\unizikpostume_b\\util\\Mailer.js","C:\\Users\\Ken\\Desktop\\unizikpostume_b\\controler\\appregistration.js","C:\\Users\\Ken\\Desktop\\unizikpostume_b\\route\\routeControl.js","C:\\Users\\Ken\\Desktop\\unizikpostume_b\\main.js"]}
+2021-09-11T17:03:35.605ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:05:10.910ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:09:24.082ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:17:39.620ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:18:28.730Z{}
+2021-09-11T17:18:40.008ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:21:57.536ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:39:42.108ZError: mail could not be sent ${JSON.stringify(error)} 
+
+2021-09-11T17:45:11.801ZError: mail could not be sent ${JSON.stringify(error)} 
+
